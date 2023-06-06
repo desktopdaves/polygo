@@ -31,7 +31,7 @@ margin: 0 10px;
 .navbar a {
 color: #fff;
 text-decoration: none;
-font-size: 16px;
+font-size: 1rem;
 font-weight: bold;
 transition: color 0.3s ease;
 }
@@ -52,10 +52,10 @@ text-align: center;
 }
 
 h1 {
-font-size: 32px;
+font-size: 2rem;
 margin-bottom: 10px;
 }
 
 p {
-font-size: 18px;
+font-size: 1.2rem;
 }
